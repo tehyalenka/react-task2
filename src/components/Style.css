@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(36, 36, 36);
+  font-size: 20px;
+}
+table {
+  border: 1px white solid;
+  border-radius: 10px;
+  margin: 50px;
+}
+td,
+th {
+  padding: 5px;
+  color: white;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+th {
+  border-bottom: 1px white solid;
+}
+h1 {
+  color: white;
+  font-size: 72px;
+}
+th {
+  min-width: 150px;
+}
